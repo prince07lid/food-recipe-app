@@ -1,10 +1,5 @@
-# MERN-Recipe-App (ReciPro)
-![Recipro](https://github.com/Sandeep-Abeykoon/mern-recipe-app/assets/97498102/035ba83d-5d9f-464d-9e87-a2920e8dbd35)
-
-ReciPro: A MERN Stack Recipe App
-
-Overview: ReciPro is a contemporary, user-friendly web application built on the MERN stack, designed for food enthusiasts, chefs, and anyone with a culinary inclination. It provides a platform to explore, share, and manage recipes, integrating the robustness of MongoDB, the flexibility of Express.js, the dynamic React.js frontend, and the power of Node.js.
-
+ Food-Recipe-App
+ 
 Features:
 
 1. User Authentication: Secure registration and login features using JWT tokens and bcrypt encryption
