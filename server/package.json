@@ -2,8 +2,8 @@
   "name": "server",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Sandeep Abeykoon",
-  "license": "MIT",
+  "author": "Prince lidhoriya",
+  "license": "IIT",
   "type": "module",
   "scripts": {
     "start": "nodemon src/index.js"
